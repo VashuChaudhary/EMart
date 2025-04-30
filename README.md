@@ -1,4 +1,3 @@
 # Amazon-Clone
-Just a clone of Amazon Web app.
 
-Using only HTML and CSS.
+Built an web platform using HTML and CSS, emphasizing layout fidelity and UI components.
